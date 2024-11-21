@@ -1,3 +1,7 @@
+GitOps Infrastructure Pipeline:
+
+This project implements a GitOps-driven Infrastructure as Code (IaC) pipeline to automate and manage the provisioning of cloud resources and application infrastructure. The pipeline uses version-controlled configuration and leverages Git as the single source of truth for infrastructure state.
+
 # Terraform code 
 
 ## Maintain vpc & eks with terraform for vprofile project
