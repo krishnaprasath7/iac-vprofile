@@ -3,7 +3,7 @@
 ## Maintain vpc & eks with terraform for vprofile project
 
 ## Tools required
-Terraform version 1.6.3
+Terraform version 1.6.3 - 2.0.0
 
 ### Steps
 * terraform init
